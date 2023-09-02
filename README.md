@@ -1,7 +1,7 @@
-"#demo-repo" 
+#demo-repo"
 
-"Description !!!"
+Description !!!
 
-"## Subheader"
+## Subheader
 
-"Another description"
+Another description
